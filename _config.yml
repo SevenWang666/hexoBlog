@@ -13,8 +13,10 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sevenwang666.github.io/blog
-root: /blog/
+#url: https://sevenwang666.github.io/blog
+#root: /blog
+url: http://47.100.104.52
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,6 +104,9 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/SevenWang666/blog.git
+ # repo: https://github.com/SevenWang666/blog.git
+  repo: root@47.100.104.52:/xincheng/hexo/hexo
   branch: master
+ # repo:
+ #   vps: root@47.100.104.52:/xincheng/hexo/hexo.git
 
