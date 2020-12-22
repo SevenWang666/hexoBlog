@@ -6,3 +6,4 @@ node_modules/
 .deploy*/
 packge-lock.json
 webhooks.js
+public
