@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 #url: https://sevenwang666.github.io/blog
 #root: /blog
 url: http://47.100.104.52
-root: /
+root: docs
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
