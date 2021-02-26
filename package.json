@@ -11,6 +11,7 @@
   "hexo": {
     "version": "4.2.1"
   },
+  "homepage": "https://sevenwang666.github.io/hexoBlog",
   "dependencies": {
     "github-webhook-handler": "^0.7.1",
     "hexo": "^4.0.0",
